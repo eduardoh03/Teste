@@ -7,6 +7,7 @@ public class valores {
 		a = sc.nextInt();
 		b = sc.nextInt();
 		System.out.printf(resultado);
+		System.out.printf(resultado);
 		sc.close();
 	}
 }
